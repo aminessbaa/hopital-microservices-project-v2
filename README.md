@@ -102,8 +102,13 @@ mvn spring-boot:run
 
 🌐 Ports par défaut
 Service                     Port
-Config Service              8888
-Eureka Server               8761
-Gateway service             8080
-Patient Service             8081
-Payment Service             8082
+
+Config Service     :         8888
+
+Eureka Server      :         8761
+
+Gateway service    :         8080
+
+Patient Service    :         8081
+
+Payment Service    :         8082
