@@ -23,18 +23,31 @@ Maven pour la gestion des dépendances
 
 📁 Structure du projet
 hospital-microservices-project/
+
 ├── config/                          # Service de configuration
+
 ├── eureka/                          # Serveur Eureka
+
 ├── gateway/                         # Passerelle API
+
 ├── patient/                         # Service Patient
+
 ├── payment/                         # Service Payment
+
 ├── application.properties           # Configuration principale
+
 ├── patient-service.properties       # Config service Patient
+
 ├── patient-service-dev.properties   # Config Patient (dev)
+
 ├── patient-service-prod.properties  # Config Patient (prod)
+
 ├── payment-service.properties       # Config service Payment
+
 ├── payment-service-dev.properties   # Config Payment (dev)
+
 ├── payment-service-prod.properties  # Config Payment (prod)
+
 └── pom.xml                         # Configuration Maven parent
 
 ⚙️ Configuration
